@@ -14,6 +14,7 @@
 		719AF0642A56ABF100633550 /* Internship_projectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719AF0632A56ABF100633550 /* Internship_projectTests.swift */; };
 		719AF06E2A56ABF100633550 /* Internship_projectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719AF06D2A56ABF100633550 /* Internship_projectUITests.swift */; };
 		719AF0702A56ABF100633550 /* Internship_projectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719AF06F2A56ABF100633550 /* Internship_projectUITestsLaunchTests.swift */; };
+		719AF07D2A56AD1900633550 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 719AF07C2A56AD1900633550 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		719AF0692A56ABF100633550 /* Internship projectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Internship projectUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		719AF06D2A56ABF100633550 /* Internship_projectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internship_projectUITests.swift; sourceTree = "<group>"; };
 		719AF06F2A56ABF100633550 /* Internship_projectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Internship_projectUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		719AF07C2A56AD1900633550 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				719AF0522A56ABF000633550 /* Internship_projectApp.swift */,
 				719AF0542A56ABF000633550 /* ContentView.swift */,
+				719AF07C2A56AD1900633550 /* SwiftUIView.swift */,
 				719AF0562A56ABF100633550 /* Assets.xcassets */,
 				719AF0582A56ABF100633550 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				719AF0552A56ABF000633550 /* ContentView.swift in Sources */,
 				719AF0532A56ABF000633550 /* Internship_projectApp.swift in Sources */,
+				719AF07D2A56AD1900633550 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
